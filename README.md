@@ -1,5 +1,6 @@
 # cleancut
 A nodejs micro-module to scan through a file and identify the positions to cleanly split the file into multiple chunks based on the line delimiter character.
+
 [![NPM](https://nodei.co/npm/cleancut.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/cleancut/)
 [![NPM](https://nodei.co/npm-dl/cleancut.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/cleancut/)
 
